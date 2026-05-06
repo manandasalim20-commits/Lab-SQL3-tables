@@ -253,11 +253,6 @@ ORDER BY e.lastName ASC
 
 display(df_under_20)
 
-
-
-
-
-
 ### Close the connection
 # Run this cell without changes
 
